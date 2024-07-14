@@ -5,7 +5,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
 handler.help = ['storyanime']
 handler.tags = ['anime']
-handler.command = /^(stor(i|y)a?nime|a?nimestor(i|y))$/i
+handler.command = /^(ايديت)$/i
 handler.limit = true
 handler.register = true
 
