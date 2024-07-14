@@ -22,6 +22,6 @@ let handler = async (m, { conn }) => {
 
 handler.help = ['akira'];
 handler.tags = ['anime'];
-handler.command = ['akira'];
+handler.command = ['اكيرا'];
 
 export default handler;
